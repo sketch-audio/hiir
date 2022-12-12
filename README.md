@@ -1,3 +1,3 @@
 # hiir
 
-A description of this package.
+Laurent de Soras' hiir library in a Swift Package.
