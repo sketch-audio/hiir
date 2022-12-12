@@ -33,8 +33,8 @@ http://sam.zoy.org/wtfpl/COPYING for more details.
 
 /*\\\ INCLUDE FILES \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
 
-#include "hiir/def.h"
-#include "hiir/StageDataNeonV4.h"
+#include "def.h"
+#include "StageDataNeonV4.h"
 
 #include <arm_neon.h>
 
@@ -144,7 +144,7 @@ private:
 
 
 
-#include "hiir/HalfBandNeon.hpp"
+#include "HalfBandNeon.hpp"
 
 
 

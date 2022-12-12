@@ -44,8 +44,8 @@ http://www.wtfpl.net/ for more details.
 
 /*\\\ INCLUDE FILES \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
 
-#include "hiir/def.h"
-#include "hiir/StageDataTpl.h"
+#include "def.h"
+#include "StageDataTpl.h"
 
 #include <array>
 
@@ -131,7 +131,7 @@ private:
 
 
 
-#include "hiir/HalfBandTpl.hpp"
+#include "HalfBandTpl.hpp"
 
 
 

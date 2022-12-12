@@ -23,7 +23,7 @@ http://www.wtfpl.net/ for more details.
 
 /*\\\ INCLUDE FILES \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
 
-#include "hiir/HalfBandTpl.h"
+#include "HalfBandTpl.h"
 
 
 
@@ -41,7 +41,7 @@ using HalfBandFpu = HalfBandTpl <NC, float, 1>;
 
 
 
-//#include "hiir/HalfBandFpu.hpp"
+//#include "HalfBandFpu.hpp"
 
 
 

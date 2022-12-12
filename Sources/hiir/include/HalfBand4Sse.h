@@ -31,8 +31,8 @@ http://www.wtfpl.net/ for more details.
 
 /*\\\ INCLUDE FILES \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
 
-#include "hiir/def.h"
-#include "hiir/StageDataSse.h"
+#include "def.h"
+#include "StageDataSse.h"
 
 #include <xmmintrin.h>
 
@@ -145,7 +145,7 @@ private:
 
 
 
-#include "hiir/HalfBand4Sse.hpp"
+#include "HalfBand4Sse.hpp"
 
 
 

@@ -37,8 +37,8 @@ http://sam.zoy.org/wtfpl/COPYING for more details.
 
 /*\\\ INCLUDE FILES \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
 
-#include "hiir/def.h"
-#include "hiir/StageDataNeonV4.h"
+#include "def.h"
+#include "StageDataNeonV4.h"
 
 #include <array>
 
@@ -139,7 +139,7 @@ private:
 
 
 
-#include "hiir/Downsampler2xNeonOld.hpp"
+#include "Downsampler2xNeonOld.hpp"
 
 
 

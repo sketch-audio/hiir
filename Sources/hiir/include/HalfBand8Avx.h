@@ -31,8 +31,8 @@ http://www.wtfpl.net/ for more details.
 
 /*\\\ INCLUDE FILES \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
 
-#include "hiir/def.h"
-#include "hiir/StageDataAvx.h"
+#include "def.h"
+#include "StageDataAvx.h"
 
 #include <immintrin.h>
 
@@ -145,7 +145,7 @@ private:
 
 
 
-#include "hiir/HalfBand8Avx.hpp"
+#include "HalfBand8Avx.hpp"
 
 
 

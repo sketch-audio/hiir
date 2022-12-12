@@ -30,8 +30,8 @@ http://sam.zoy.org/wtfpl/COPYING for more details.
 
 /*\\\ INCLUDE FILES \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
 
-#include "hiir/def.h"
-#include "hiir/StageDataF64Sse2.h"
+#include "def.h"
+#include "StageDataF64Sse2.h"
 
 #include <emmintrin.h>
 
@@ -141,7 +141,7 @@ private:
 
 
 
-#include "hiir/HalfBandF64Sse2.hpp"
+#include "HalfBandF64Sse2.hpp"
 
 
 

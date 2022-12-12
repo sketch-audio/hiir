@@ -46,7 +46,7 @@ T	ipowp (T x, long n) noexcept;
 
 
 
-#include "hiir/fnc.hpp"
+#include "fnc.hpp"
 
 
 
