@@ -24,5 +24,6 @@ let package = Package(
         .testTarget(
             name: "hiirTests",
             dependencies: ["hiir"]),
-    ]
+    ],
+    cxxLanguageStandard: .cxx11
 )
